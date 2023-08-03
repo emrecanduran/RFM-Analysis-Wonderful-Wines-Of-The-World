@@ -20,7 +20,7 @@ The RFM model, which stands for Recency, Frequency, and Monetary Value, is a pow
 
 The dataset used for this project contains the following variables:
 
-WonderfulWines.csv dataset (9000)
+WonderfulWines.xlsx dataset (9000)
 
 - `Cust ID`: refers to the unique identifier for each customer.
 - `Education`: represents the customer's academic degree.
