@@ -34,3 +34,7 @@ WonderfulWines.xlsx dataset (9000)
 - `Perishables`, `Beverages`, `Frozen`, `Canned`, `Others`: represent different product categories, and the amount spent on these product categories.
 - `Internet`: represents the percentage(%) of the customer's purchases that were made over the Internet.
 - `NPS`: represents the customer's Adapted Net Promoter Score (1-5), which is a measure of customer satisfaction based on how likely the customer is to recommend the business to others.
+
+  ## Results
+
+  Customers divided into groups with their ID numbers : Gold, Silver, and Bronze. Plus, provided marketing advice for groups. 
