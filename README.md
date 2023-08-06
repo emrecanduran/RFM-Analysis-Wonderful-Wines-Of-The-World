@@ -16,6 +16,8 @@ Please note that the proposed segmentation strategy will utilize the RFM (Recenc
 
 The RFM model, which stands for Recency, Frequency, and Monetary Value, is a powerful customer segmentation technique commonly used in marketing and business analytics. 
 
+Note: In general, RFM analysis does not require normality assumptions for the data. However, the data is highly skewed, I applied log transformation that can help to reduce the skewness and make the data more symmetrical. I thought this can lead to more accurate segmentation and better results.
+
 ## Dataset
 
 The dataset used for this project contains the following variables:
